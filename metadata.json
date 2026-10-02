@@ -1,0 +1,6 @@
+{
+  "name": "Aerchain Sourcing Copilot - Autonomous Packaging Procurement",
+  "description": "Autonomous multi-agent sourcing platform for A2B Packaging Procurement (PR-BLR-1088 & PR-CHN-1045). Features RFQ generation, multi-format quote extraction, automated supplier clarifications, quality compliance gating, TCO scenario modeling, and negotiation playbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

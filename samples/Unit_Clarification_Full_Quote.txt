@@ -1,0 +1,44 @@
+Supplier: Alpha-Pack Integrated Systems
+RFQ: RFQ-2026-041
+Quote number: UNIT-DEMO-1790919289386
+Quote date: 2026-10-02
+Currency: INR
+Payment terms: Net 45 days
+Validity: through 2026-11-15
+Freight: included for Bengaluru and Chennai, zero additional charge.
+All line quantities are EA. All item specifications are confirmed.
+The price basis for BTL-001 is per kg; unit weight is not stated in this quote and must be confirmed with us.
+
+Line items:
+BTL-001 | PET Bottle 60 ml | Quantity 65000 EA | Price INR 118.00 per kg | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-002 | PET Bottle 100 ml | Quantity 75000 EA | Price INR 2.00 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-003 | PET Bottle 150 ml | Quantity 45000 EA | Price INR 2.23 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-004 | PET Bottle 200 ml | Quantity 95000 EA | Price INR 2.42 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-005 | PET Bottle 250 ml | Quantity 110000 EA | Price INR 2.61 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-006 | PET Bottle 300 ml | Quantity 55000 EA | Price INR 2.71 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-007 | PET Bottle 350 ml | Quantity 40000 EA | Price INR 2.80 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-008 | PET Bottle 500 ml | Quantity 130000 EA | Price INR 2.95 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-009 | PET Bottle 500 ml | Quantity 115000 EA | Price INR 3.28 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-010 | PET Bottle 600 ml | Quantity 85000 EA | Price INR 3.09 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-011 | PET Bottle 750 ml | Quantity 65000 EA | Price INR 3.47 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-012 | PET Bottle 1000 ml | Quantity 150000 EA | Price INR 3.99 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-013 | PET Bottle 1000 ml | Quantity 75000 EA | Price INR 4.61 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-014 | PET Bottle 1250 ml | Quantity 55000 EA | Price INR 4.37 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-015 | PET Bottle 1500 ml | Quantity 100000 EA | Price INR 4.85 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-016 | PET Bottle 2000 ml | Quantity 65000 EA | Price INR 6.08 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-017 | PET Bottle 2500 ml | Quantity 35000 EA | Price INR 7.41 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-018 | PET Bottle 3000 ml | Quantity 27000 EA | Price INR 8.46 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-019 | PET Bottle 4000 ml | Quantity 22000 EA | Price INR 10.64 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+BTL-020 | PET Bottle 5000 ml | Quantity 33000 EA | Price INR 12.83 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-001 | Carton for 24 × 60 ml bottles | Quantity 65000 EA | Price INR 13.77 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-002 | Carton for 24 × 200 ml bottles | Quantity 85000 EA | Price INR 17.29 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-003 | Carton for 24 × 500 ml bottles | Quantity 95000 EA | Price INR 21.66 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-004 | Carton for 12 × 1000 ml bottles | Quantity 103000 EA | Price INR 24.23 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-005 | Carton for 6 × 2000 ml bottles | Quantity 55000 EA | Price INR 27.55 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-006 | Carton for 4 × 5000 ml bottles | Quantity 27000 EA | Price INR 36.57 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-007 | Carton for 500 ml bottle | Quantity 130000 EA | Price INR 4.56 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-008 | Carton for 1000 ml bottle | Quantity 110000 EA | Price INR 5.89 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-009 | Carton CTN-009 | Quantity 45000 EA | Price INR 15.68 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+CTN-010 | Carton CTN-010 | Quantity 38000 EA | Price INR 26.60 per EA | MOQ 1000 EA | Lead time 16 days | Delivery 2026-10-25 | Specification confirmed
+
+Stated total: INR 18079930.00.
